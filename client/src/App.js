@@ -1,10 +1,10 @@
 import './App.css';
+import MainContent from "./components/mainContent/mainContent";
 
 function App() {
   return (
     <div className="App">
-      Let's build Instagram........
-      <Home />
+       <MainContent/>
     </div>
   );
 }
