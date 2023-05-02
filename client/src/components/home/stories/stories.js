@@ -35,11 +35,6 @@ const Stories = () => {
         <Avatar className="story_avatar" src="girlLap.png"/>
         <div className='story_text'>Rama Priya</div>
       </div>
-
-      <div className="individual_story">
-        <Avatar className="story_avatar" src="girlLap.png"/>
-        <div className='story_text'>Rama Priya</div>
-      </div>
     </div>
     </div>
   )

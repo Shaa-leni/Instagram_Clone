@@ -12,10 +12,6 @@
     scrollbar-width: none;
 }
 
-/* .stories_container::-webkit-scrollbar{
-    display: none;
-} */
-
 .story_avatar{
     min-height:55px;
     min-width:55px;
